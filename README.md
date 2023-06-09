@@ -7,7 +7,7 @@ Hello 👋
 
 I am a Senior Mobile Developer with 6 years of experience in mobile development, have worked with a lot of different indurstries and people from around the world. A strong work ethic has been always with me since the start of my career. Enthusiastic, and full of spirit, they are things that are in and always with me from the first place as a Software Developer
 
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-abbiyuarsyah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pandu-abbniyuarsyah)
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-abbiyuarsyah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pandu-abbiyuarsyah)
 
 ---
 
