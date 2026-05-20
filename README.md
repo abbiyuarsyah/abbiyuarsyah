@@ -5,7 +5,10 @@
 
 Hello 👋
 
-I am a Senior Mobile Developer with 8 years of experience in mobile development, have worked with a lot of different indurstries and people from around the world. A strong work ethic has been always with me since the start of my career. Enthusiastic, and full of spirit, they are things that are in and always with me from the first place as a Software Developer
+I am a Senior Mobile Developer with 9 years of experience, having worked across various industries and collaborated with professionals globally. I specialize in building robust, scalable mobile applications with deep expertise in Flutter. I'm equally comfortable working with native Android and iOS stacks, allowing me to make informed decisions on architecture and technology choices.
+
+
+Throughout my career, I've collaborated with talented teams globally and maintained a strong work ethic that drives me to solve complex problems and deliver quality software.
 
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-abbiyuarsyah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pandu-abbiyuarsyah)
 
